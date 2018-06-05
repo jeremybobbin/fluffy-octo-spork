@@ -17,12 +17,3 @@ regions[sidebar_right] = Right Sidebar
 regions[page_top] = Page Top
 regions[page_bottom] = Page Bottom
 regions[footer] = Footer
-
-; Bartik's color picker thing
-settings[shortcut_module_link] = 0
-
-
-; Information added by Drupal.org packaging script on 2018-04-25
-version = "7.59"
-project = "drupal"
-datestamp = "1524673284"
